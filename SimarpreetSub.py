@@ -37,9 +37,9 @@ def subtract(s1,s2):
 
 
 #https://www.geeksforgeeks.org/reverse-string-python-5-different-ways/
-
-s1=input()
 s2=input()
+s1=input()
+
 
 
 print(reverse(subtract(s1,s2)))
